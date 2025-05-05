@@ -1,2 +1,2 @@
 # cla-test-repo
-Test repo for CLA service
+This repo is created for CLA testing.
